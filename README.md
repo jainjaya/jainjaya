@@ -1,6 +1,6 @@
 # Java Developer
 
-**Excited to learn and build projects. Skilled in core Java and basic web development. Always exploring new technologies and improving coding skills**
+**Excited to learn and build projects. Skilled in core Java and basic web development. Always exploring new technologies and improving coding skills.**
 
 <hr>
 
