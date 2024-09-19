@@ -4,14 +4,6 @@
 
 <hr>
 
-### ⌚ Time 
-
-### 💰 Resources 
-
-### ⭐ Quality 
-
-<hr>
-
 🎪 **Frontend :** HTML , CSS ...
 
 👨‍💻 **Backend :** Java ...
